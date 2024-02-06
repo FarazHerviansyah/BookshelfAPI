@@ -1,4 +1,4 @@
-# BookshelfAPI
+# Bookshelf API
 
 - API dapat menyimpan buku
 
